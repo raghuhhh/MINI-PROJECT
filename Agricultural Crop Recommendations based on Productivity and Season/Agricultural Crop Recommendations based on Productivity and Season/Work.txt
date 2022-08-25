@@ -1,0 +1,35 @@
+
+Service Provider
+
+
+View Crop Data Sets, 
+Browse Agriculture DataSets and Train & Test, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View All Crop Yield and Production Prediction, 
+Download Predicted Data Sets, 
+View All Remote Users, 
+View Crop Yield Prediction Per Acre Results.
+
+
+Remote User
+
+POST CROPS DATA SETS,
+PREDICT CROP YIELD AND PRODUCTION, 
+VIEW YOUR PROFILE.
+
+
+Members
+
+State_Name,
+District_Name,
+Crop_Year,
+Season,
+names,
+Area,
+Production,
+Yield_Prediction,
+Production_Prediction.
+
+
+
